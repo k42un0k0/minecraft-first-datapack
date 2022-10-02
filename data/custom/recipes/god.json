@@ -1,0 +1,13 @@
+{
+  "type": "crafting_shapeless",
+  "group": "diamond",
+  "ingredients": [
+    {
+      "tag": "minecraft:arrows"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 10
+  }
+}
